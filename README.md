@@ -9,7 +9,7 @@ Muhammad Danish Rabbani - 2108107010081
 
 My Notebook:
 
-- [diabetes SVM Classification](diabetes_SVM_Categorical.ipynb)
+- [diabetes SVM Classification](diabetes_SVM_Clasification.ipynb)
 - [IceCream SVM Regression](IceCream_SVM_Regresion.ipynb)
 
 # How to run
